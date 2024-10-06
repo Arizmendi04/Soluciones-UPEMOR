@@ -1,6 +1,6 @@
 <?php 
     $conn= mysqli_connect(
-        'https://danieltellez.net/',
+        'localhost',
         'root',
         '',
         'SoluPlagas'
